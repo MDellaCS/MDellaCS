@@ -3,11 +3,10 @@
 
 <h4 align="center">My E-mail:<br>
 <a>matheusdellacrocce@hotmail.com</a></h4>
-<br>
 <h4 align="center">My Resume:<br>
 https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 
-<h3 align="center">Languages And Tools I Know And Love:<br><br>
+<h3 align="center">Languages And Tools I Know And Love<br><br>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -35,6 +34,5 @@ https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><br>
 </h3>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" />&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></p>

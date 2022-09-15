@@ -1,11 +1,11 @@
 <h1 align="center">🖐 Hello There, Welcome To My GitHub Profile</h1>
 <h3 align="center">I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷</h3><br>
 
-<h4 align="center">My E-mail:<br></h4>
-<h4 align="center">matheusdellacrocce@hotmail.com</h4>
+<h4 align="center">My E-mail:<br>
+matheusdellacrocce@hotmail.com
 
 My Resume:<br>
-https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf
+https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 
 <h3 align="center">Languages And Tools I Know And Love:<br><br>
 

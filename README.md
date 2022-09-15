@@ -36,5 +36,5 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><br>
 
 <h3 align="center"><strong>⭐️ My Stats ⭐️</strong><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" />&nbsp;&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></h3>

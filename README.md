@@ -7,11 +7,11 @@ matheusdellacrocce@hotmail.com
 My Resume:<br>
 https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf
 
-<h3 align="center">Languages And Tools I Know And Love:</h3>
+<h3 align="center">Languages And Tools I Know And Love:
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img align="right" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<br><br><br>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 
@@ -35,7 +35,7 @@ https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-
+</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></p>

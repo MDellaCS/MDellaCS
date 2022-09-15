@@ -2,10 +2,9 @@
 <h3 align="center">I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷</h3>
 
 <h4 align="center">My E-mail:<br>
-matheusdellacrocce@hotmail.com
-
-
-My Resume:<br>
+matheusdellacrocce@hotmail.com</h4>
+<be>
+<h4 align="center">My Resume:<br>
 https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 
 <h3 align="center">Languages And Tools I Know And Love:<br><br>
@@ -36,5 +35,5 @@ https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><br>
 </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></p>

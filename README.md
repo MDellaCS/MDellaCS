@@ -2,7 +2,7 @@
 <h3 align="center">I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷</h3>
 
 <h4 align="center">My E-mail:<br>
-<a>matheusdellacrocce@hotmail.com</a></h4>
+<a href="matheusdellacrocce@hotmail.com" target="_blank" rel="noreferrer">matheusdellacrocce@hotmail.com</a></h4>
 <h4 align="center">My Resume:<br>
 https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 

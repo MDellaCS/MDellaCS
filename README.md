@@ -1,12 +1,12 @@
-<h1 align="center">**🖐 Hello There, Welcome To My GitHub Profile**</h1>
-<h3 align="center">*I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷*</h3>
+<h1 align="center"><strong>🖐 Hello There, Welcome To My GitHub Profile</h1>
+<h3 align="center">I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷</strong></h3>
 
 <h4 align="center">My E-mail:<br>
 <a href="matheusdellacrocce@hotmail.com" target="_blank" rel="noreferrer">matheusdellacrocce@hotmail.com</a></h4>
 <h4 align="center">My Resume:<br>
 https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 <br>
-<h3 align="center">**Languages And Tools I Know And Love**<br><br>
+<h3 align="center"><strong>Languages And Tools I Know And Love</strong><br><br>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>

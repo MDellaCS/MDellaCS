@@ -1,7 +1,5 @@
-<h1 align="center">🖐 Hello There, Welcome to my GitHub page a</h1>
+<h1 align="center">🖐 Hello There, Welcome to my GitHub page</h1>
 <h3 align="center">I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdellacs&label=Profile%20views&color=0e75b6&style=flat" alt="mdellacs" /> </p>
 
 - 📫 My e-mail: **matheusdellacrocce@hotmail.com**
 
@@ -16,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&locale=en&layout=compact" alt="mdellacs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&locale=en" alt="mdellacs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></p>

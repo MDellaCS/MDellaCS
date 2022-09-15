@@ -4,8 +4,6 @@
 <h4 align="center">My E-mail:<br>
 matheusdellacrocce@hotmail.com
 
-  
-  
 My Resume:<br>
 https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf</h4>
 

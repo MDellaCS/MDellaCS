@@ -2,8 +2,8 @@
 <h3 align="center">I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷</h3>
 <br>
 - 📫 My e-mail: **matheusdellacrocce@hotmail.com**
-
-- 📄 My resume: [asd](asd)
+<br>
+- 📄 My resume: https://github.com/MDellaCS/meuCurriculo/blob/main/MatheusDella.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 <br>
 📧  My e-mail: matheusdellacrocce@hotmail.com
 <br>
-📄 &nbspMy resume: [asd](asd)
+📄 <tab>My resume:</tab> [asd](asd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

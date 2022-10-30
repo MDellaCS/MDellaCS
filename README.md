@@ -1,12 +1,6 @@
 <h1 align="center"><strong>―― Hello There, Welcome To My GitHub Profile ――</h1>
 <h3 align="center">🖐 I'm Matheus Della (aka MDellaCS) from Brazil 🇧🇷 🖐</strong></h3>
 
-<h4 align="center">
-<a href="https://github.com/MDellaCS/MDellaCS/blob/main/MatheusDella.pdf">My Resume</a>
-<br><br>
-<a href="https://outlook.live.com/">My E-mail</a>
-</h4>
-
 <h3 align="center"><strong>❤️ Languages And Tools I Know And Love❤️ </strong><br><br>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">

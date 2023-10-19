@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="136" src="https://i.gifer.com/Ir4.gif"  />
+<img align="right" height="136" src="https://i.gifer.com/Ir4.gif"/>
 
 ###
 
@@ -37,12 +37,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MDellaCS/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###

@@ -8,10 +8,6 @@
 </div>
 
 ###
-AA
-<img align="right" height="136" src="https://i.gifer.com/Ir4.gif"/>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
@@ -26,12 +22,6 @@ AA
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="44" alt="php logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MDellaCS/MDellaCS/output/snake.svg" alt="Snake animation" />
 
 ###
 

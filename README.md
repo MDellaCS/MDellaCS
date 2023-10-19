@@ -20,6 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/></a>
 </h2>
 
-<h3 align="center"><strong>⭐️ My Stats ⭐️</strong><br><br>
+<h3 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" /></h3>

@@ -22,4 +22,5 @@
 
 <h3 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdellacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mdellacs" width="46"/><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" width="46"/></h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdellacs&show_icons=true&theme=dracula&locale=en" alt="mdellacs" width="46"/>
+</h3>

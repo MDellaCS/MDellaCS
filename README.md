@@ -1,6 +1,18 @@
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MDellaCS&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MDellaCS&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDellaCS&layout=compact&theme=tokyonight"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MDellaCS&theme=tokyo-night"/>
 
 </div>
 
